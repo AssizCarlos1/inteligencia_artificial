@@ -9,8 +9,7 @@ const perguntas = [
         alternativas: [
             {
             texto: "A) Fitoterapia e a figura do curandeiro (sangoma/ndaba):.",
-            afirmacao: "Na África do Sul, por exemplo, os sangomas ou ndabas são figuras centrais que utilizam o conhecimento profundo das plantas e a conexão espiritual para diagnosticar e tratar enfermidades.
-. "
+            afirmacao: "Na África do Sul, por exemplo, os sangomas ou ndabas são figuras centrais que utilizam o conhecimento profundo das plantas e a conexão espiritual para diagnosticar e tratar enfermidades."
             },
             {
             texto: ") A culinária como principal forma de tratamento:",
